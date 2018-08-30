@@ -1,0 +1,90 @@
+.App {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  background-image: url('http://www.tmstash.com/wp-content/uploads/2014/02/comic-book-faces.jpg')
+}
+
+.movies {
+  color: white;
+  background-color: black;
+  border: 5px white;
+}
+
+button {
+  font-size: 15px;
+}
+
+.dirt {
+  background-color: black;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(190, 39, 39); 
+  color: white;
+}
+
+.App2 {
+  background: rgba(0, 0, 0, 0.603);
+}
+
+.bob {
+  font-size: 30px;
+  color: rgb(102, 9, 9);
+  background-color: Black;
+  border-radius: 20%;
+}
+
+.tBox1 {
+    height:22px;
+    width: 12%;
+    font-size:14pt;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}
+
+.tBox2 {
+  height:22px;
+  width: 50%;
+  font-size:14pt;
+  -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}
+
+.tBox3 {
+  height:22px;
+  width: 50%;
+  font-size:14pt;
+  -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}
+
+.tBox4 {
+  height:22px;
+  width: 12%;
+  font-size:14pt;
+  -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}
+
+.stuff{
+  height: 100%;
+  width: 100%;
+  color: white
+}
+.images {
+  width: 40%;
+  height: 40%;
+}
+
+header {
+  background-color: #222;
+  background-image: url('http://stuffpoint.com/superheroes/image/462777-superheroes-super-heroes.jpg');
+  height: 80px;
+  padding: 20px;
+  color: white;
+}

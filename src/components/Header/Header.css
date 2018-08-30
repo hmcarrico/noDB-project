@@ -1,0 +1,7 @@
+.catalogue {
+    font-size: 80px;
+    background: url(http://theologygaming.com/wp-content/uploads/2014/01/fighting_games_unite_by_jinxonhog.jpg) no-repeat;
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-fill-color: transparent;    
+}
